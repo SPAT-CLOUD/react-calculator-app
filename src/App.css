@@ -1,3 +1,13 @@
+body{
+  background-color: #ccc;
+  background-image: url("img/proto.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* width:fit-content; */
+  height: max-content;
+  
+}
+
 .App {
   text-align: center;
 }
